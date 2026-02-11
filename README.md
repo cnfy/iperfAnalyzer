@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/cnfy/iperfAnalyzer/releases/latest)
+
 # Iperf Analyzer
 
 A desktop utility for parsing **iperf3** JSON results and generating formatted Excel reports.
